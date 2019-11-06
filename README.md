@@ -11,7 +11,7 @@ _Note: While we love open source here at Gapless, please do not create a public 
 ## The task 🏁
 ![Challenge](/challenge.png)
 
-1. Create a mini garage with react-native filled with cars from `https://static.gapless.app/app/challenge/data.json`. The app should indicate when users are being loaded with a loader/spinner
+1. Create a mini garage with react-native filled with cars from `https://static.gapless.app/app/challenge/data.json`. The app should indicate when vehicles are being loaded with a loader/spinner
 2. The user should be able to star cars, starred cars should show up first.
 3. Your task is to create a mini Garage with React-Native, consisting of a garage filled with cars. The user should be able to star cars, starred cars should show up first and should remain starred even if the app restarts.
 
