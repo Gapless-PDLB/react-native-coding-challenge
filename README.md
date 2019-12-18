@@ -21,7 +21,7 @@ _Note: While we love open source here at Gapless, please do not create a public 
 - Code reusability, readability and maintainability
 - Finding the right point of abstraction in your UI components, helpers functions and APIs
 
-## Evaluation Criterias
+## Evaluation Criteria
 - You're free to use as many third party JS libraries that you see fit
 - You know Redux? then use it (evaluation criteria point)
 - Tests, type checking, linting... are nice to have (evaluation criteria point for each)
